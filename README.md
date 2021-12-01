@@ -2,6 +2,8 @@
 
 Demo pages from CodePen
 
-- [List of reserved words in JavaScript](https://codepen.io/j2vi/pen/oNNWKoZ)
+__001.  List of reserved words in JavaScript__
+Last Updated: [November 10, 2021](https://codepen.io/j2vi/pen/oNNWKoZ)
 
-- [30 Ways to Make Progress](https://codepen.io/j2vi/pen/abyegdW)
+__002. 30 Ways to Make Progress__
+Last Updated: [November 27, 2021](https://codepen.io/j2vi/pen/abyegdW)
