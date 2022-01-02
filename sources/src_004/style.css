@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 4em;
+  width: 100%;
+  height: 100%;
+}
+
+.year-list {
+  display: flex;
+}
+
+.year-item {
+  list-style-type: none;
+}
+
+.year-link {
+  text-decoration: none;
+  transition: 1.2s;
+}
+
+.year-link:hover {
+  color: #f00;
+  transition: 1.2s;
+}
