@@ -21,4 +21,7 @@ Demo pages from CodePen
 5. 5d.5p.js | Day 1 - Cards &nbsp;
    🖥:[Source code](./sources/src_005/) 🌍:[CodePen Demo](https://codepen.io/j2vi/pen/YzEVBYZ)
 
+6. 5d.5p.js | Day 2 - Drag & Drop;
+   🖥:[Source code](./sources/src_006/) 🌍:[CodePen Demo](https://codepen.io/j2vi/pen/rNYwrPj)
+
 ### Email UI Development
