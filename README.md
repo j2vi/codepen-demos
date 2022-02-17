@@ -36,4 +36,7 @@ Demo pages from CodePen
 10. Happy Valentine's Day 2022
     🖥:[Source code](./sources/src_010/) 🌍:[CodePen Demo](https://codepen.io/j2vi/pen/yLPoxBY)
 
+11. Simple Random Color Generator
+    🖥:[Source code](./sources/src_011/) 🌍:[CodePen Demo](https://codepen.io/j2vi/pen/ExboyWM)
+
 ### Email UI Development
